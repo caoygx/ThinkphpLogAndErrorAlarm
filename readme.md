@@ -33,3 +33,5 @@
 
 ### 报警邮件
 ![报警邮件](https://github.com/caoygx/ThinkphpLogAndErrorAlarm/raw/master/assets/alarm_email.png)
+
+# 有问题不要来找我 ^_^
