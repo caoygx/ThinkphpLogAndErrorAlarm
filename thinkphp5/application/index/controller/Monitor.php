@@ -53,7 +53,7 @@ class Monitor extends Controller
      */
     function alarm(string $content){
         try{
-            $admin_mail = C('admin_eamil');
+            $admin_mail = config('admin_eamil');
             if($admin_mail){
                 $r = sendmail("出错啦！",$content,$admin_mail,'');
                 if($r) return true;
