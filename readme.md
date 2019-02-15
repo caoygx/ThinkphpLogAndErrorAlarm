@@ -19,6 +19,12 @@
 
 
 # 效果预览
+
+### 请求日志
 ![请求日志](https://github.com/caoygx/ThinkphpLogAndErrorAlarm/raw/master/assets/request_log.png)
+
+### 队列任务
 ![报警队列](https://github.com/caoygx/ThinkphpLogAndErrorAlarm/raw/master/assets/alarm_queue.png)
+
+### 报警邮件
 ![报警邮件](https://github.com/caoygx/ThinkphpLogAndErrorAlarm/raw/master/assets/alarm_email.png)
