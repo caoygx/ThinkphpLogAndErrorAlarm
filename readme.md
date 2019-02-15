@@ -9,4 +9,4 @@
 
 
 # 效果预览
-![报警邮件](https://github.com/caoygx/ThinkphpLogAndErrorAlarm/blob/master/alarm_email.png)
+![报警邮件](https://github.com/caoygx/ThinkphpLogAndErrorAlarm/raw/master/alarm_email.png)
