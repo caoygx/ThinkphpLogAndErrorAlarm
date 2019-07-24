@@ -18,5 +18,12 @@
     "autoload": {
         "psr-4": { "Symfony\\Polyfill\\Mbstring\\": "" },
         "files": [ "bootstrap.php" ]
-    }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "Tests\\": "tests/"
+        }
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true
 }
